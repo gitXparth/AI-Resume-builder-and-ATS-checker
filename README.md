@@ -8,7 +8,7 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-  [Explore Live Demo](#) · [Report Bug](#) · [Request Feature](#)
+  [Explore Live Demo](https://ai-resume-builder-and-ats-checker.vercel.app/) · [Report Bug](#) · [Request Feature](#)
 
 </div>
 

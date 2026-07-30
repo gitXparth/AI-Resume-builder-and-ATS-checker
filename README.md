@@ -1,7 +1,7 @@
 # 📄 Resume Builder App
 
 An interactive, responsive, and modern **Resume Builder Web Application** designed to help users quickly build, customize, and download professional resumes in PDF format.
-
+local host link--> (usually http://localhost:5173)
 ---
 
 ## 🚀 Quick Summary (What This App Does)
